@@ -1,0 +1,7 @@
+{
+  "name": "FoodBridge",
+  "description": "A modern food waste reduction platform connecting restaurants, NGOs, and volunteers to redistribute surplus food.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
