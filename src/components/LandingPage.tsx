@@ -123,7 +123,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">How FoodBridge Works</h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">Simple steps to make a massive impact in your community.</p>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">Simple steps to make a massive impact in your community</p>
           </div>
           <div className="grid md:grid-cols-3 gap-12">
             {[
