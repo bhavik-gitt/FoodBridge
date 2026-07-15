@@ -56,7 +56,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
               Reduce Food Waste, <span className="text-primary">Feed the Hungry.</span>
             </h1>
             <p className="text-xl text-gray-600 mb-10 leading-relaxed max-w-lg">
-              FoodBridge connects surplus food from restaurants and hotels to local NGOs and volunteers, ensuring no good meal goes to waste.
+              FoodBridge AI connects surplus food from restaurants and hotels to local NGOs and volunteers, ensuring no good meal goes to waste.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button onClick={onGetStarted} className="btn-primary flex items-center justify-center gap-2 text-lg px-8 py-4">
